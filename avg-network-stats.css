@@ -18,3 +18,15 @@
 #avg-network-stats-item-last-item {
   border-right: 3px solid #FFFBFE;
 }
+
+.avg-network-stats-item-image {
+  width: 50px;
+}
+
+.avg-network-stats-item-info {
+  padding-left: 15px;
+}
+
+.avg-network-stats-item-info-data {
+  font-size: 32px;
+}
