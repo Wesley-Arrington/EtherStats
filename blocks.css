@@ -1,0 +1,20 @@
+.blocks {
+    padding: 60px;
+    background-color: #212329;
+    color: #50AFFC; /*turned up hue and saturation on #74AEDD*/
+}
+
+.block {
+    width: 200px;
+}
+
+.block-item {
+    background-color: #1E2025;
+    border: 3px solid #C4C4C4;
+    border-bottom: 0px;
+    padding: 10px;
+}
+
+#block-item-last-item {
+    border-bottom: 3px solid #C4C4C4;
+}

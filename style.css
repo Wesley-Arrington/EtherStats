@@ -1,0 +1,58 @@
+/* color scheme: https://coolors.co/24262d-fffbfe-efefef-38aecc-2f6690 */
+
+/* charleston green: #24262D
+White: #FFFBFE
+Gray: #EFEFEF
+Pop Blue: #38AECC
+Calm Blue: #2F6690 */
+
+/* 86 156 214 Blue
+
+156 220 254 light blue
+
+206 145 120 orange
+
+106 153 85 green */
+
+html {
+    font-family: 'Noto Sans HK', 'PT Sans', sans-serif;
+    min-height: 100%;
+    background-color: #24262D;
+    color: rgb(86, 156, 214);
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 19px;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.simple-column-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.simple-row {
+    display: flex;
+}
+
+/* svg .gradient-bg {
+  fill:  #fff;
+} */
+
+/* #header-shape-gradient {
+  --color-stop: #f12c06;
+  --color-bot: #faed34;
+} */
